@@ -6,5 +6,6 @@
 </head>
 <body>
 	<?php echo $output ?>
+	<br>
 </body>
 </html>
